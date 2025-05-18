@@ -10,11 +10,11 @@
 
 Sou Consultor de Software empresarial, com mais de 10 anos de experiência em TI e forte atuação em projetos internacionais no setor alimentício.
 
-Atuo com **implementação, customização e suporte de sistemas MES**, com foco em controle e rastreabilidade de produção. Tenho domínio em **SQL Server**, integrações via **web services**, **XML** e desenvolvimento de **relatórios com DevExpress**.
+Atuo com **implementação, customização e suporte de sistemas MES**, com foco em controle e rastreabilidade de produção. Tenho domínio em **SQL Server**, integrações via **web services**, **XML**.
 
-Também desenvolvo pequenos aplicativos em **Python**, sempre com foco em demandas reais de negócio, buscando **automatizar processos de forma prática e personalizada**.
+Também desenvolvo pequenos aplicativos em **Python**, sempre com foco em demandas reais de negócio, buscando **automatizar processos**.
 
-Já colaborei com equipes e stakeholders de diversos países, conduzindo projetos em **português, inglês e espanhol**, sempre buscando soluções simples, eficazes e alinhadas com as necessidades reais dos clientes.
+Já colaborei com equipes e stakeholders de diversos países, conduzindo projetos em **português, inglês e espanhol**, sempre buscando soluções simples e eficazes.
 
 ---
 
@@ -34,6 +34,7 @@ Já colaborei com equipes e stakeholders de diversos países, conduzindo projeto
 - Windows Server, Microsoft Azure
 - Git, GitHub
 - Power Apps
+- Elementor
 
 ---
 
